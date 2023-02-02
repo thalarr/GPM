@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Object Repository/Partner/Create/Page_Project Manage
 WebUI.setText(findTestObject('Object Repository/Partner/Create/Page_Project Management/input_Partner Name_store_name'), 
     'Ayu Tingting')
 
-WebUI.setText(findTestObject('Object Repository/Partner/Create/Page_Project Management/input_Partner ID_code'), 'PID002')
+WebUI.setText(findTestObject('Object Repository/Partner/Create/Page_Project Management/input_Partner ID_code'), 'PID003')
 
 WebUI.click(findTestObject('Object Repository/Partner/Create/Page_Project Management/input_Partner Category_category'))
 
